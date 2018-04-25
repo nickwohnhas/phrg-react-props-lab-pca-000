@@ -28,3 +28,4 @@ export default Spaceship;
  
 ## Resources
 - [Default Props](https://facebook.github.io/react/docs/typechecking-with-proptypes.html)
+<p data-visibility='hidden'>PHRG React Props lab</p>
